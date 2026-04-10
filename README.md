@@ -1,7 +1,5 @@
 # Smart-Contract-Security-Toolkit-v2
-# sc-audit
-
-Smart contract security toolkit written in Go.
+Smart contract security toolkit written in Go for better speed,Multi-threading,More custom Detectors and well optimized results.
 
 ## Installation
 
